@@ -82,7 +82,7 @@ function create_config( )
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[» MaTaDoR v4.0
+    info_text = [[» MaTaDoR v5.0
 		
 		»Sudo BoT :
 		» @MahDiRoO
