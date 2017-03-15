@@ -65,6 +65,7 @@ function create_config( )
     "GetProf",		
     "GroupManager",
     "Info",
+    "IdPw,"	
     "Msg-Checks",	
     "MuteTime",
     "Nerkh",
