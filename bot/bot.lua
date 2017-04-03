@@ -61,7 +61,7 @@ function create_config( )
 	config = {
     enabled_plugins = {
     "BanHammer",
-    "ClearCache"			
+    "ClearCache",			
     "Fun",
     "GetProf",		
     "GroupManager",
